@@ -1,2 +1,4 @@
 rootProject.name = 'design_patterns'
+include 'online-books-platform'
+include 'chess_game_platform'
 

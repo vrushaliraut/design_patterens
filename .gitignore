@@ -12,5 +12,5 @@ bin
 build
 classes/
 out/
-src/generated
+concepts/src/generated
 public/
