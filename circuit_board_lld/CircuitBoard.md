@@ -1,5 +1,7 @@
 ## Problem
 
+# Reference :- https://leetcode.com/discuss/interview-question/object-oriented-design/1348716/Design-a-Circuit-Board
+
 Design a Circuit board system that can contain one or more switches in any specific arrangement as defined by User
 input (Assume inputs from command line, UI not required).
 
