@@ -1,4 +1,9 @@
 rootProject.name = 'design_patterns'
 include 'online-books-platform'
 include 'chess_game_platform'
+include 'cab_booking_lld'
+include 'ticket_booking_lld'
+include 'online_book_store_lld'
+include 'messaging_queue_pub_sub_lld'
+include 'hotel_booking_lld'
 
