@@ -6,4 +6,6 @@ include 'ticket_booking_lld'
 include 'online_book_store_lld'
 include 'messaging_queue_pub_sub_lld'
 include 'hotel_booking_lld'
+include 'movie_ticket_booking_lld'
+include 'circuit_board_lld'
 
